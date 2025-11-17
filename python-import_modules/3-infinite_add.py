@@ -9,4 +9,3 @@ if __name__ == "__main__":
         total += int(num)
 
     print(total)
-
